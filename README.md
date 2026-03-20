@@ -474,7 +474,7 @@ There are several instructions that set and clear these bits, programmatically.
 
 You will learn the instruction set as you go.  The instruction set is documented as a reference manual, not a programming manual.  That is, each instruction is documented as to what it does.  But there is no particular "how to use this instruction" documentation.
 
-You can find the instruction set documented on various Web Sites.  The best source is the [Intel Programmer's Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) or the [AMD64 Programmer's Manual](https://docs.amd.com/v/u/en-US/24594_3.37).
+You can find the instruction set documented on various Web Sites.  The best source is the [Intel Programmer's Manual](file:///home/froogal/Downloads/325462-090-sdm-vol-1-2abcd-3abcd-4.pdf) or the [AMD64 Programmer's Manual](https://docs.amd.com/v/u/en-US/24594_3.37).
 
 Here is a decent Web Page that lists the instructions in a table, one line per instruction with a short description.
 
